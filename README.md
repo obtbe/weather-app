@@ -9,7 +9,7 @@ This document outlines the application's features, technologies, architecture, a
 ## Screenshot
 
 <p align="center">
-    <img src="https://github.com/obtbe/WeatherAppGUI-Java/blob/main/Screenshot_15.png?raw=true" alt="Weather App Screenshot">
+    <img src="https://github.com/obtbe/weather-app/blob/main/Screenshot_15.png?raw=true" alt="Weather App Screenshot">
 </p>
 
 ---
